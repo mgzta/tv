@@ -1,4 +1,5 @@
-### Alternativas Android TV 09/02/2026
+### Alternativas Android TV 
+> 09/02/2026
 
 ```Xuper/MagisTV fue dado de baja el dia de hoy en el territorio argentino.```
 ```Se puede usar un VPN a México, donde podrias habilitar todo excepto el contenido argentino eliminado.```
